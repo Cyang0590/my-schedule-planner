@@ -22,7 +22,7 @@ Villy Yeoh
 
 ## Deployed Page
 
-
+https://cyang0590.github.io/my-schedule-planner/
 
 ## License
 
